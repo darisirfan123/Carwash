@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+projectUTS
+</name>
+</assembly>
+<members>
+<member name="T:projectUTS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources._1F1740A2_70F0_4E77_B850_F67A7B8F3B1F">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.a3_040419__69276_1576686187">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.AN515_55">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.Asus_A442UQ_FA047T_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.close_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.HP_14z_fq000_Laptop_9VN16AV_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.icons8_computer_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.icons8_computer_100__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.icons8_grid_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.icons8_grid_100__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.icons8_help_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.icons8_help_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.icons8_laptop_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.icons8_laptop_100__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.icons8_shopping_cart_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.icons8_shopping_cart_100_blk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.Intel_Z390_Custom_Computer_Desktop_pc_2__17519_1566441516_1280_1280__77357_1587573107">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.max_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.min_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.signa_extreme_gaming_pc_unlocked_new_intel_amd_cpu_x570_3rd_gen_3000_series_toronto_canada_2_2000x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:projectUTS.My.Resources.Resources.XPS_13">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,119 @@
+D:\KULIAH\PEMDESK\UTS\projectUTS\bin\Debug\projectUTS.exe.config
+D:\KULIAH\PEMDESK\UTS\projectUTS\bin\Debug\projectUTS.exe
+D:\KULIAH\PEMDESK\UTS\projectUTS\bin\Debug\projectUTS.pdb
+D:\KULIAH\PEMDESK\UTS\projectUTS\bin\Debug\projectUTS.xml
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.vbproj.AssemblyReference.cache
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.FormMain.resources
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.Resources.resources
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.vbproj.GenerateResource.cache
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.vbproj.CoreCompileInputs.cache
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.exe
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.xml
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.pdb
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.Form2.resources
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.Form3.resources
+D:\KULIAH\PEMDESK\UTS\projectUTS\obj\Debug\projectUTS.Form4.resources
+C:\Users\Diva Dafina\Documents\projectUTS\bin\Debug\projectUTS.exe.config
+C:\Users\Diva Dafina\Documents\projectUTS\bin\Debug\projectUTS.exe
+C:\Users\Diva Dafina\Documents\projectUTS\bin\Debug\projectUTS.pdb
+C:\Users\Diva Dafina\Documents\projectUTS\bin\Debug\projectUTS.xml
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.vbproj.AssemblyReference.cache
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.FormMain.resources
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.Form2.resources
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.Form3.resources
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.Form4.resources
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.FormLogin.resources
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.Resources.resources
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.vbproj.GenerateResource.cache
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.vbproj.CoreCompileInputs.cache
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.exe
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.xml
+C:\Users\Diva Dafina\Documents\projectUTS\obj\Debug\projectUTS.pdb
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\bin\Debug\projectUTS.exe.config
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\bin\Debug\projectUTS.exe
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\bin\Debug\projectUTS.pdb
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\bin\Debug\projectUTS.xml
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.AssemblyReference.cache
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormMain.resources
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form2.resources
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form3.resources
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form4.resources
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormLogin.resources
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormRegistrasi.resources
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Resources.resources
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.GenerateResource.cache
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.CoreCompileInputs.cache
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.exe
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.xml
+D:\KULIAH\PEMDESK\UTS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.pdb
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\bin\Debug\projectUTS.exe.config
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\bin\Debug\projectUTS.exe
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\bin\Debug\projectUTS.pdb
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\bin\Debug\projectUTS.xml
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.AssemblyReference.cache
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormMain.resources
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form2.resources
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form3.resources
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form4.resources
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormLogin.resources
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormRegistrasi.resources
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Resources.resources
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.GenerateResource.cache
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.CoreCompileInputs.cache
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.exe
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.xml
+C:\Users\Diva Dafina\Documents\PEMDESK UAS\PEMDESK PROJECT UAS\obj\Debug\projectUTS.pdb
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\bin\Debug\projectUTS.exe.config
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\bin\Debug\projectUTS.exe
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\bin\Debug\projectUTS.pdb
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\bin\Debug\projectUTS.xml
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.AssemblyReference.cache
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormMain.resources
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form2.resources
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form3.resources
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form4.resources
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormLogin.resources
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormRegistrasi.resources
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Resources.resources
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.GenerateResource.cache
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.CoreCompileInputs.cache
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.exe
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.xml
+C:\Users\Diva Dafina\Documents\progress terakhir\PEMDESK PROJECT UAS\obj\Debug\projectUTS.pdb
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\bin\Debug\projectUTS.exe.config
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\bin\Debug\projectUTS.exe
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\bin\Debug\projectUTS.pdb
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\bin\Debug\projectUTS.xml
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.AssemblyReference.cache
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormMain.resources
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form2.resources
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form3.resources
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form4.resources
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormLogin.resources
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormRegistrasi.resources
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormUser.resources
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Resources.resources
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.GenerateResource.cache
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.CoreCompileInputs.cache
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.exe
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.xml
+C:\Users\adven\Documents\KULIAH\PEMDESK\PEMDESK PROJECT UAS\obj\Debug\projectUTS.pdb
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\bin\Debug\projectUTS.exe.config
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\bin\Debug\projectUTS.exe
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\bin\Debug\projectUTS.pdb
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\bin\Debug\projectUTS.xml
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.AssemblyReference.cache
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormMain.resources
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form2.resources
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form3.resources
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Form4.resources
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormLogin.resources
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormRegistrasi.resources
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.FormUser.resources
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.Resources.resources
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.GenerateResource.cache
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.vbproj.CoreCompileInputs.cache
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.exe
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.xml
+C:\Users\Diva Dafina\Downloads\terakhir!!!\PEMDESK PROJECT UAS\obj\Debug\projectUTS.pdb
